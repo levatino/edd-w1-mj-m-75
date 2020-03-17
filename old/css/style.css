@@ -1,0 +1,56 @@
+body{
+    margin:40px;
+    font-family: "comic sans";
+    background-image: url("../img/torre-vengadores.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center top;
+
+}
+
+p{
+    color: white;
+    text-align: center;
+    line-height: 200%;
+}
+#principal{
+    color:rgba(255, 255, 255);
+    font-size:40px;
+    text-align: center;
+}
+.texto{
+    color: rgba(255, 255, 255); 
+    text-align: center;
+}
+a{
+    color:rgb(218, 62, 14);
+    text-decoration: none;
+    font-weight: bold;
+    background-color: white;
+}
+a:hover {
+    color:rgb(143, 7, 120);
+    background-color:white;
+}
+#contenido{
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.65);
+    float: right;
+    padding: 10px;
+    box-sizing: border-box;
+}
+#logo-principal {
+    width: 245px;
+    display: block;
+}
+
+#menu{
+    float:left;
+    width: 30%;
+    background-color:  rgba(161,134,98,0.65) ;
+    padding: 10px;
+    box-sizing: border-box;
+}
